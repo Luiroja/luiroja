@@ -5,7 +5,7 @@ Escribo desde los 12 años "poesía". Durante mis estudios universitarios me int
 
 Mi pasión "interés" en la programación surgió al finalizar mi carrera desarrollando una (APP) en WORDPRESS (CMS) , y durante la pandemia 2020 me involucré al punto de aprender un lenguaje de programación PYTHON. Un año después hice el MASTER EN CODING en DEV.F donde adquirí todas las habilidades y tecnologías que muestro en mi perfil.
 
-Estoy completamente seguro que me voy a dedicar a ESCRIBIR en toda mi vida y seguro estaréis preguntando ¿en que área o sector? Haré de la tecnología mi profesión, de la poesía mi vocación y de la investigación científica mi motivación para "ESCRIBIR MEJOR" día a día
+Estoy completamente seguro que me voy a dedicar a ESCRIBIR en toda mi vida y seguro estaréis preguntando ¿en que área o sector? Haré de la tecnología mi profesión, de la poesía mi vocación y de la investigación científica mi instrumento para "ESCRIBIR MEJOR" día a día
 
 💻 Estoy buscando mi primer trabajo como desarrollador web
 🕹 Actualmente estoy aprendiendo desarrollo web Autodidacta
