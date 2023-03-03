@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hola a todos 👋<br>Soy Luiroja,  un apasionado por la programación web.<br><br>💻 Actualmente estoy buscando mi primer trabajo como desarrollador web<br>🕹 Actualmente estoy aprendiendo desarrollo web Autodidacta<br>💬 Puedes preguntarme acerca de cualquiera de las tecnología que uso<br>🧨 Hobbies: Escribir poesía ✒️, declamar 🎤, jugar fútbol ⚽, viajar ✈️, gastronomía 🍽️  <br>📕 INSOMNIO DE VERSOS (Libro de poesía)<br>🎓Educación:<br>     🏞️ Ingeniero en Ecoturismo<br>     👨‍💻Máster en Coding<br>      📱Máster en Marketing Digital
+Soy @Luiroja, un joven escritor e Ingeniero en Ecoturismo apasionado por la programación web. 
+
+Escribo desde los 12 años "poesía". Durante mis estudios universitarios me interesé en la elaboración de proyectos y redacción científica lo cual me permitió laborar en un Instituto de Investigación Científica (IINDESAT) en la ciudad donde vivo.
+
+Mi pasión "interés" en la programación surgió al finalizar mi carrera desarrollando una (APP) en WORDPRESS (CMS) , y durante la pandemia 2020 me involucré al punto de aprender un lenguaje de programación PYTHON. Un año después hice el MASTER EN CODING en DEV.F donde adquirí todas las habilidades y tecnologías que muestro en mi perfil.
+
+Estoy completamente seguro que me voy a dedicar a ESCRIBIR en toda mi vida y seguro estaréis preguntando ¿en que área o sector? Haré de la tecnología mi profesión, de la poesía mi vocación y de la investigación científica mi motivación para "ESCRIBIR MEJOR" día a día
+
+💻 Estoy buscando mi primer trabajo como desarrollador web
+🕹 Actualmente estoy aprendiendo desarrollo web Autodidacta
+💬 Puedes preguntarme acerca de cualquiera de las tecnología que uso
+🧨 Hobbies: Escribir poesía ✒️, declamar 🎤, jugar fútbol ⚽, viajar ✈️, gastronomía 🍽️
+📕 INSOMNIO DE VERSOS (Libro de poesía)
+🎓Educación:
+🏞️ Ingeniero en Ecoturismo (BECA PERÚ-ECUADOR)
+👨‍💻Máster en Coding
+📱Máster en Marketing Digital
 
 
 ## 🌐 Socials:
