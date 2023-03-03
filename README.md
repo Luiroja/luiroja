@@ -7,15 +7,16 @@ Mi pasión "interés" en la programación surgió al finalizar mi carrera desarr
 
 Estoy completamente seguro que me voy a dedicar a ESCRIBIR en toda mi vida y seguro estaréis preguntando ¿en que área o sector? Haré de la tecnología mi profesión, de la poesía mi vocación y de la investigación científica mi instrumento para "ESCRIBIR MEJOR" día a día
 
-💻 Estoy buscando mi primer trabajo como desarrollador web
-🕹 Actualmente estoy aprendiendo desarrollo web Autodidacta
-💬 Puedes preguntarme acerca de cualquiera de las tecnología que uso
-🧨 Hobbies: Escribir poesía ✒️, declamar 🎤, jugar fútbol ⚽, viajar ✈️, gastronomía 🍽️
-📕 INSOMNIO DE VERSOS (Libro de poesía)
-🎓Educación:
-🏞️ Ingeniero en Ecoturismo (BECA PERÚ-ECUADOR)
-👨‍💻Máster en Coding
-📱Máster en Marketing Digital
+💻 Estoy buscando mi primer trabajo como desarrollador web  
+🕹 Actualmente estoy aprendiendo desarrollo web Autodidacta   
+💬 Puedes preguntarme acerca de cualquiera de las tecnología que uso  
+🧨 Hobbies: Escribir poesía ✒️, declamar 🎤, jugar fútbol ⚽, viajar ✈️, gastronomía 🍽️   
+📕 INSOMNIO DE VERSOS (Libro de poesía)   
+🎓Educación:  
+🏞️ Ingeniero en Ecoturismo (BECA PERÚ-ECUADOR)   
+👨‍💻Máster en Coding   
+📱Máster en Marketing Digital   
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/luisrogerio.juarezalarcon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiroja/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@luiroja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@luiroja5033) 
