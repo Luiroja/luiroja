@@ -17,7 +17,6 @@ Estoy completamente seguro que me voy a dedicar a ESCRIBIR en toda mi vida y seg
 👨‍💻Máster en Coding
 📱Máster en Marketing Digital
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/luisrogerio.juarezalarcon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiroja/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@luiroja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@luiroja5033) 
 
